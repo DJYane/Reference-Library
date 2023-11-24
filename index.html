@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reference Library </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>最近有哪些值得分享的好作品？</h1>
+</header>
+
+<!-- 筛选区域 -->
+<aside id="filters">
+    <h2>筛选作品</h2>
+    <label for="typeFilter">按类型：</label>
+    <select id="typeFilter">
+        <option value="All">All</option>
+        <option value="Scrollytelling">Scrollytelling</option>
+        <option value="Data Video">Data Video</option>
+        <option value="Data Generative Art">Data Generative Art</option>
+        <option value="Flow charts">Flow charts</option>
+        <option value="Interactive Film">Interactive Film</option>
+        <option value="Games">Games</option>
+        <!-- 更多类型选项 -->
+    </select>
+
+    <!-- 可以按照需要添加更多筛选条件 -->
+
+    <button onclick="filterWorks()">筛选</button>
+
+</aside>
+
+    <!-- 作品展示区域 -->
+<section id="portfolio">
+        <!-- 作品项 -->
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
