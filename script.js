@@ -5,6 +5,10 @@ var works = [
     { name: "How the Supply Chain Crisis Unfolded", link: "https://www.nytimes.com/interactive/2021/12/05/business/economy/supply-chain.html", type: "Flow charts", imageUrl: "images/Flowchart1.png" },
     { name: "Brainstream", link: "https://brainstream.nfb.ca/?_gl=1*1a9qrj2*_ga*MTMzMDU5MzkzNC4xNjk5MTcyOTQ1*_ga_0CLQ31X8KS*MTY5OTE3NDA4NC4xLjEuMTY5OTE3NTM5MS40OS4wLjA.*_ga_EFC1FZYYCZ*MTY5OTE3NDA4NC4xLjEuMTY5OTE3NTM5MS40OS4wLjA.*_ga_EP6WV87GNV*MTY5OTE3NDA4NC4xLjEuMTY5OTE3NTM5MS40OS4wLjA.", type: "Interactive Film", imageUrl: "images/Interactive Film1.png" },
     { name: "Kimchi", link: "https://pudding.cool/2023/05/kimchi/", type: "Games", imageUrl: "images/Games1.png" },
+    { name: "Rising Temperatures Are Wreaking Havoc Year-Round", link: "https://www.bloomberg.com/graphics/2023-global-warming-impacts-data", type: "Scrollytelling", imageUrl: "images/Scrollytelling2.png" },
+    { name: "Privacy Preserving Proximity Tracing", link: "https://tracing.ft0.ch/#/", type: "Scrollytelling", imageUrl: "images/Scrollytelling3.png" },
+    { name: "Pigs in cities: why wild boar stray into urban areas", link: "https://multimedia.scmp.com/infographics/news/hong-kong/article/3202238/urban-wild-boar/", type: "Scrollytelling", imageUrl: "images/Scrollytelling4.png" },
+    
     
     
     // ...更多作品
